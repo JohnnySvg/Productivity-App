@@ -1,1 +1,1 @@
-App with React + Vite for time managemante
+App with React + Vite for time management
